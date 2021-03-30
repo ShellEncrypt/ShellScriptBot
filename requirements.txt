@@ -43,7 +43,6 @@ hyperlink==21.0.0
 idna==2.7
 image==1.5.33
 incremental==21.3.0
-ipython==7.19.0
 ipython-genutils==0.2.0
 isort==5.5.3
 jaraco.classes==3.2.1
