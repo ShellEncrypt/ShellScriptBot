@@ -1,1 +1,1 @@
-worker python sellscript.py
+worker python shellscript.py
