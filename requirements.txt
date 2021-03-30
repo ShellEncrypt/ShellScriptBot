@@ -85,7 +85,6 @@ pyTelegramBotAPI==3.7.6
 python-dateutil==2.8.1
 pythondialog==3.5.1
 pytz==2020.4
-pywin32==300
 pyyandextranslateapi==1.2
 QIWIAPI==5.0
 qiwipy==2.1.6
