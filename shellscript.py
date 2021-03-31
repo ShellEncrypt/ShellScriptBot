@@ -1,8 +1,10 @@
 import telebot
+import os
 import urllib
 import requests
 bot = telebot.TeleBot('1769497993:AAHD9qhUtkaq2WZDBo_f9AgfSL2KlDumzLE')
 
+print(os.environ.get("TOKEN", "no token"))
 main_menu = telebot.types.ReplyKeyboardMarkup(resize_keyboard=True)
 main_menu.row('🍭 Скрипты 🍭')
 main_menu.row('⚙️ Канал ⚙️','💎 Чат 💎')
